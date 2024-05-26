@@ -2,6 +2,8 @@
 
 Pathfinding Visualizer is a web application that visualizes various pathfinding algorithms to find the shortest path between a source node cell and an end node cell. The application allows users to interact with the grid by adding obstacles and dragging the start and end points. The visualization helps in understanding how different algorithms work in finding the shortest path.
 
+![Pathfinding Visualizer](.demo.png)
+
 ## Technologies Used
 
 - **React.js (Vite)**: The core framework used for building the application.
